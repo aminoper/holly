@@ -1,0 +1,8 @@
+discord.py
+requests
+googletrans==4.0.0-rc1
+python-dotenv
+Pillow
+arabic-reshaper
+python-bidi
+argostranslate
